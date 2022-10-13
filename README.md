@@ -152,6 +152,4 @@ for el in els: # 👉️ Loop over els
 ```
 
 
-
-
-For the tutorial of the examples, vists [beautifulsoup-get-class-name - PyTutorial](https://pytutorial.com/beautifulsoup-get-class-name)
+For the tutorial of the examples, vists [beautifulsoup Get Class Name - PyTutorial](https://pytutorial.com/beautifulsoup-get-class-name)
